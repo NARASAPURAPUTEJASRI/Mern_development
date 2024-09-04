@@ -1,0 +1,5 @@
+Button is css selector 
+
+Every colour in univerese are exist on three colors 
+they are red green black
+according to thumb rule to make any thing circle then it is half to height 

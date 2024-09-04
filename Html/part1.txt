@@ -1,0 +1,13 @@
+Html stands for Hyper Text Markup Language
+The part which was visible on webpage was created by by using Html 
+Html creates a static page
+css provides user Interaction in effective way
+The difference between website and webpage : website contains multiple webpages
+The word rendering means what ever we write on html code is displayed on the screen
+Javascript add functionalities to html code 
+href attributes changes the behaviour of the  exisiting html element
+we can add multiple attributes to same element
+target attribut let us deside weather user want to open the link on same tab or differnt tab
+sytax tells us how to intercat with a language
+html ignoors whitespaces not only between content but between tages also
+
