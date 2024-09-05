@@ -1,6 +1,6 @@
 <style>
   .subscribe{
-    background-color: rgb(236, 39, 39);
+    background-color: rgb(180, 53, 53);
     border: none;
     color: white;
     height: 40px;
@@ -9,7 +9,15 @@
     border-radius: 2px;
     margin-right: 4px;
   }
-  .joi{
+  .subscribe:hover{
+    opacity: 0.7;
+
+  }
+  .subscribe:active{
+    opacity: 0.1;
+
+  }
+  .join{
     color: rgb(97, 97, 226);
     border-color: rgb(87, 87, 225);
     border-style: solid;
@@ -19,6 +27,13 @@
     background-color: white;
     cursor: pointer;
     margin-left: 2px;
+    /*transition:  3s,color 1s;*/
+    transition: background-color 0.3s,color 0.3s;
+
+  }
+  .join:hover{
+    background-color: rgb(97, 97, 226);
+    color: white;
   }
   .tweet{
     border: none;
@@ -30,6 +45,10 @@
     border-radius: 15px;
     margin-left: 4px;
     font-weight: blod;
+  }
+  .tweet:hover{
+    box-shadow: 0px 8px 16px 0 rgb(33, 31, 31);
+
   }
 </style>
 

@@ -3,3 +3,12 @@ Button is css selector
 Every colour in univerese are exist on three colors 
 they are red green black
 according to thumb rule to make any thing circle then it is half to height 
+
+HOVERING : 
+The chaning of colour when we hover it is called opicity
+Supersimple.dev - website for html and css
+Pseduo classes combined with html classes
+Pseduo classes are used to give specical states of elements
+Hover, active,focus are some of the special states
+Opicity is a property that controls transparency of element
+Opicity value must lies between 0.0 to 0.1 so that there is a slightly changed colour of button
