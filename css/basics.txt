@@ -12,3 +12,46 @@ Pseduo classes are used to give specical states of elements
 Hover, active,focus are some of the special states
 Opicity is a property that controls transparency of element
 Opicity value must lies between 0.0 to 0.1 so that there is a slightly changed colour of button
+
+
+padding vs margin: 
+padding was better then margin 
+padding resizes internally
+
+All the three buttons content are aligned at top margin , but the buttons might not be in order
+For that we use vartical-align: top 
+
+Vertical align:
+
+Inspect tab:
+In inspect tab we contain style tab and computed tab
+1)Styles tab
+2)Computed tab
+
+$ a in rgba is opacity
+hover,active and normal are some part of the Pseduo classes
+
+To create color we have three ways
+1) Hex value 
+2) rgb values 
+3)color name 
+whenver we using # then it is hex value (#cc0000)
+It is one way of assigning the colors
+These comes under the style tab content
+
+Computed tab:
+wenfind the values of css at one place
+Debuging the code:
+
+Css box module: 
+css box module contains four components:
+1)content (450*30) ,here 450 height 30 width
+2)pading 
+3)border 
+4)margin
+Hovering using styles tab the blue hovered region is called as content area
+Div tag Holding some elemnets and we can apply styles to that elements
+for changing content of element we can use height and width
+
+
+
